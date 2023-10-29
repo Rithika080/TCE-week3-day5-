@@ -1,0 +1,15 @@
+Node Js is a runtime environment of Javascript which executes javascript code outside the browser.
+
+Postman
+
+npm init 
+node server.js
+npm i express
+node server.js
+npm i mongoose
+npm install nodemon
+npx nodemon server.js
+
+
+async
+http status code : 2(200,201), 4(400,401,403,404), 5(500)
